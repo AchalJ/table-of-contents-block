@@ -1,6 +1,6 @@
 === Table of Contents Block ===
 Contributors: ibachal
-Tags: toc block, gutenberg, table of contents, gutenberg toc, nested toc
+Tags: toc block, gutenberg, table of contents, block, gutenberg toc, nested toc
 Stable tag: 1.0.0
 Tested up to: 5.4.2
 Requires at least: 5.0
